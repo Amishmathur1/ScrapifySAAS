@@ -2,9 +2,9 @@
 
 ScrapeFlow is a powerful SaaS platform for workflow automation with integrated web scraping capabilities. Built on Next.js, FlowScrape lets users automate complex data extraction workflows, securely store credentials, manage billing, and monitor performance—all in one intuitive interface.
 
-![ScrapeFlow Dashboard](https://raw.githubusercontent.com/Amishmathur1/ScrapifySAAS/main/public/preview/preview_1.png)
-![ScrapeFlow Workflow Editor](https://raw.githubusercontent.com/Amishmathur1/ScrapifySAAS/main/public/preview/preview_2.png)
-![ScrapeFlow Chat Interface](https://raw.githubusercontent.com/Amishmathur1/ScrapifySAAS/main/public/preview/preview_3.png)
+![ScrapeFlow Dashboard](/public/preview/dashbord.png)
+![ScrapeFlow Workflow Editor](/public/preview/workflow.png)
+![ScrapeFlow Chat Interface](/public/preview/Execution.png)
 
 ## 📋 Key Features
 
