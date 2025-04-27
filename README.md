@@ -2,9 +2,9 @@
 
 ScrapeFlow is a powerful SaaS platform for workflow automation with integrated web scraping capabilities. Built on Next.js, FlowScrape lets users automate complex data extraction workflows, securely store credentials, manage billing, and monitor performance—all in one intuitive interface.
 
-![FlowScrape1_screenshot](/public/preview/preview_1.png)
-
-![FlowScrape2_screenshot](/public/preview/preview_2.png)
+![ScrapeFlow Dashboard](/public/preview/preview_1.png)
+![ScrapeFlow Workflow Editor](/public/preview/preview_2.png)
+![ScrapeFlow Chat Interface](/public/preview/preview_3.png)
 
 ## 📋 Key Features
 
@@ -22,6 +22,10 @@ ScrapeFlow is a powerful SaaS platform for workflow automation with integrated w
 
 - **AI-Powered Web Scraping (Beta)**: Explore our beta AI-driven feature that intelligently navigates and scrapes data from complex websites.
 
+- **Integrated Chatbot Assistant**: Get real-time help and guidance with our AI-powered chatbot that can assist you in building and troubleshooting your workflows.
+
+- **Ethical Scraping Compliance**: Automatic robots.txt checking to ensure your scraping activities comply with website policies and respect their terms of service.
+
 ## 🚀 Getting Started
 
 1. **Sign Up**: Create an account on FlowScrape and choose a subscription plan that suits your needs. FREE 100 credits are provided for first time users.
@@ -36,6 +40,8 @@ ScrapeFlow is a powerful SaaS platform for workflow automation with integrated w
 - **Billing**: [Stripe](https://stripe.com) integration for payment processing
 - **Security**: Encrypted credential storage to protect sensitive data
 - **Analytics**: Real-time data visualization and reporting
+- **AI Integration**: OpenAI-powered chatbot and scraping assistance
+- **Ethical Compliance**: Automated robots.txt parsing and compliance checking
 
 ## 📊 Usage & Billing
 
@@ -90,6 +96,7 @@ FlowScrape's credit-based system allows you to manage workflow executions effici
 
 - Drag and drop nodes to define scraping tasks.
 - Use AI suggestions for selector optimization.
+- Get real-time assistance from the integrated chatbot.
 
 ### 3. **Set Credentials**
 
@@ -98,10 +105,15 @@ FlowScrape's credit-based system allows you to manage workflow executions effici
 ### 4. **Schedule Scraping**
 
 - Use the scheduling feature to automate scraping tasks.
+- The system automatically checks robots.txt before execution to ensure compliance.
 
-### 5. **Export Data**
+### 5. **Get AI Assistance**
 
-- Download scraped data in the desired format.
+- Use the integrated chatbot to get help with:
+  - Workflow optimization
+  - Selector suggestions
+  - Troubleshooting
+  - Best practices for ethical scraping
 
 ---
 
