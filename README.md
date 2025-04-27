@@ -52,8 +52,8 @@ FlowScrape's credit-based system allows you to manage workflow executions effici
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/scrapeflow.git
-   cd scrapeflow
+   git clone https://github.com/Amishmathur1/ScrapifySAAS
+   cd ScrapifySAAS
    ```
 
 2. **Install dependencies**
